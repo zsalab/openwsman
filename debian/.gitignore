@@ -1,0 +1,16 @@
+/.debhelper
+/libopenwsman-dev
+/libopenwsman1
+/libwsman-client2
+/libwsman-clientpp-dev
+/libwsman-clientpp1
+/libwsman-curl-client-transport1
+/libwsman-server1
+/libwsman1
+/openwsman
+/python-openwsman
+/tmp
+/debhelper-*
+/*.debhelper.log
+/*.substvars
+/files
